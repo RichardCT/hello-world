@@ -1,2 +1,6 @@
 # hello-world
-Just a 'hello-world' code for welcoming Java.
+==================
+
+Hi there!
+Richard here, I like sports and coding. I love Mexican food (the best in the world!).
+Expect to understand how to use Github someday.
